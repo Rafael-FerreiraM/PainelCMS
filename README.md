@@ -19,11 +19,9 @@ Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 - Servidor web (por exemplo, Apache)
 - Navegador web moderno
 - Executar o script contido no arquivo
--- Clone o repositório
-  
+- Clone o repositório:
    ```bash
    git clone https://github.com/Rafael-FerreiraM/PainelCMS.git
   
-
    
-  ![image](https://github.com/Rafael-FerreiraM/Desafio-Programa-Best-Minds-2024-/assets/101290871/0bab4cc6-411a-4151-8b4d-9d60fa339d90)
+![image](https://github.com/Rafael-FerreiraM/Desafio-Programa-Best-Minds-2024-/assets/101290871/0bab4cc6-411a-4151-8b4d-9d60fa339d90)
