@@ -10,7 +10,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Painel de controle</title>
+    <title>Painel de Controle</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -26,7 +26,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Danki Code</a>
+          <a class="navbar-brand" href="#">Painel CMS</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul id="menu-principal" class="nav navbar-nav">
