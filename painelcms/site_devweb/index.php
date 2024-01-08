@@ -43,7 +43,7 @@
         <div class="container chamada-banner">
           <div class="row">
               <div class="col-md-12 text-center">
-                  <h2><?php echo htmlentities('<'); ?>Dev.Code<?php echo htmlentities('>');  ?></h2>
+                  <h2><?php echo htmlentities('<'); ?>Dev.Web<?php echo htmlentities('>');  ?></h2>
                   <p>Empresa voltada para desenvolvimento web e marketing digital</p>
                   <a href="">Saiba Mais!</a>
               </div><!--col-md-12-->
@@ -179,7 +179,7 @@
       </section>
 
       <footer>
-        <p class="text-center">Todos os direitos reservados!</p>
+        <p class="text-center"> Criado Por Rafael Ferreira Todos os direitos reservados!</p>
       </footer>
 
     </div><!--box-->
