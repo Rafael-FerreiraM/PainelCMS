@@ -6,7 +6,7 @@ O Painel CMS é uma aplicação web desenvolvida em PHP, MySQL, Bootstrap e jQue
 
 - **Gerenciamento de Membros:** Adicione, remova e atualize informações sobre os membros da equipe de forma fácil e rápida.
 
-- **Atualização do Sobre:** Mantenha o conteúdo da página "Sobre Nós" sempre atualizado através do painel administrativo.
+- **Atualização do Sobre:** Mantenha o conteúdo da página "Sobre" sempre atualizado através do painel administrativo.
 
 - **Interface Amigável:** Utiliza Bootstrap e jQuery para uma experiência de usuário agradável e responsiva.
 
