@@ -1,6 +1,6 @@
 # Painel CMS
 
-O Painel CMS é uma aplicação web desenvolvida em PHP, MySQL, Bootstrap e jQuery, projetada para facilitar o gerenciamento de membros de equipe e atualização de conteúdo sobre o site. Com este painel administrativo, é possível realizar modificações no site de forma intuitiva e eficiente.
+O Painel CMS é uma aplicação web desenvolvida em PHP, MySQL, Bootstrap e jQuery. Com este painel administrativo, é possível realizar modificações no site pelo painel administrativo de forma intuitiva e eficiente.
 
 ## Funcionalidades
 
@@ -12,7 +12,7 @@ O Painel CMS é uma aplicação web desenvolvida em PHP, MySQL, Bootstrap e jQue
 
 ## Pré-requisitos
 
-Antes de começar, certifique-se de ter os seguintes requisitos instalados:
+Antes de testar, certifique-se de ter os seguintes requisitos instalados:
 
 - PHP
 - MySQL
