@@ -20,6 +20,7 @@ Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 - Navegador web moderno
 - Executar o script contido no arquivo
 - Clone o repositório:
+  
    ```bash
    git clone https://github.com/Rafael-FerreiraM/PainelCMS.git
   
